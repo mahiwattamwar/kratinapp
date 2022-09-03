@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MaterialLoginPage</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="kratin">Kratin</string>
+    <string name="signup">Already have an account</string>
+    <string name="register">Register</string>
+
+    <string name="contact">Contact</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="TAG">Waste To Education</string>
+</resources>

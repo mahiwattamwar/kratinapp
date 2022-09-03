@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SwacchStepIntern" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#075E54</item>
+        <item name="colorPrimaryVariant">#075E54</item>
+        <item name="colorOnPrimary">#075E54</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#075E54</item>
+        <item name="colorSecondaryVariant">#075E54</item>
+        <item name="colorOnSecondary">#075E54</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <color name="purple_500">#9C27B0</color>
+</resources>
